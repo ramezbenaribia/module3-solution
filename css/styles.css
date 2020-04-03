@@ -104,6 +104,7 @@ p{
 @media (max-width: 767px) {
     .col-lg-3 {
         width: 95% ;
+        margin-right: 5px;
     }
 
 }
